@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <directory>
   <relase>
-    <version>1.1</version>
-    <version-code>110</version-code>
-    <url>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1/TMOLoader_1-1.exe</url>
-    <info>NOT UPDATE TOOL</info>
+    <version>1.1.1</version>
+    <version-code>111</version-code>
+    <url>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1.1/TMOLoader_1-1-1.exe</url>
+    <info>Ahora se actualiza solo</info>
   </relase>
 </directory>
