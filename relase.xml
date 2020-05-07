@@ -2,9 +2,9 @@
 <directory>
   <relase>
     <version>1.1.3</version>
-    <version-code>113</version-code>
+    <version-code>114</version-code>
     <url>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1.3/TMOLoader_1.1.3_x64.exe</url>
     <url32>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1.3/TMOLoader_1-1-3_x86.exe</url32>
-    <info>Algunas carpetas tenian un espacio al inicio</info>
+    <info>Esta versión nueva es falsa, solo queria avisar, decidieron borrar nuestros comentario del Foro, en mi caso incluso borraron mi cuenta, me disculpo si por comentar en mis publicaciones, les llegaron a borrar a ustedes las cuentas, espero que no. Supongo que seguire actualizando la aplicación... pero si alguno de los que lee esto, quiere hacer una sugerencia, acceda a mi repositorio de GitHub y haga un Issue, si no saben como pueden buscar en google, por ahora eso es todo, perdon por los inconvenientes. GitHub: https://github.com/laplaces-entropy/R-TMOLoader/</info>
   </relase>
 </directory>
