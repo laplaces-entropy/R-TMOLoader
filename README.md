@@ -8,4 +8,4 @@ Tambien [aquí](https://github.com/laplaces-entropy/R-TMOLoader/releases) estan 
 
 Si tienes alguna sugerencia o quieres reportar un error, publicalo [aquí](https://github.com/laplaces-entropy/R-TMOLoader/issues).
 
-**Actualización v1.00:** [100% (Proyecto)](https://github.com/laplaces-entropy/R-TMOLoader/projects/2).
+**Actualización v1.2.1:** [0% (Proyecto)](https://github.com/laplaces-entropy/R-TMOLoader/projects/4).
