@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <directory>
   <relase>
-    <version>1.1.5</version>
-    <version-code>115</version-code>
-    <url>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1.5/TMOLoader_1-1-5_x64.exe</url>
-    <url32>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.1.5/TMOLoader_1-1-5_x86.exe</url32>
-    <info>Repara la actualización infinita</info>
+    <version>1.2.0</version>
+    <version-code>120</version-code>
+    <url>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.2/TMOLoader_1-2-0_x64.exe</url>
+    <url32>https://github.com/laplaces-entropy/R-TMOLoader/releases/download/v1.2/TMOLoader_1-2-0_x86.exe</url32>
+    <info>Añade icono, inforación y la opción de descargar desde cierto capitulo</info>
   </relase>
 </directory>
