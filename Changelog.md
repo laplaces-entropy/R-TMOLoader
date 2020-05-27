@@ -18,7 +18,7 @@
  - Algunas veces las carpetas tenían un espacio al inicio
 
 **1.1.4**
- - Aviso de cambios (NO LISTADA)
+ - NO LISTADA
 
 **1.1.4**
  - Repara error de actualización infinita
